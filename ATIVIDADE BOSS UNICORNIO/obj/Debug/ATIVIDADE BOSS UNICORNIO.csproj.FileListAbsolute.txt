@@ -1,0 +1,8 @@
+C:\Users\guilherme.rfernande3\source\repos\ATIVIDADE BOSS UNICORNIO\obj\Debug\ATIVIDADE BOSS UNICORNIO.csproj.AssemblyReference.cache
+C:\Users\guilherme.rfernande3\source\repos\ATIVIDADE BOSS UNICORNIO\obj\Debug\ATIVIDADE BOSS UNICORNIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.rfernande3\source\repos\ATIVIDADE BOSS UNICORNIO\obj\Debug\ATIVIDADE BOSS UNICORNIO.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.rfernande3\source\repos\ATIVIDADE BOSS UNICORNIO\bin\Debug\ATIVIDADE BOSS UNICORNIO.exe.config
+C:\Users\guilherme.rfernande3\source\repos\ATIVIDADE BOSS UNICORNIO\bin\Debug\ATIVIDADE BOSS UNICORNIO.exe
+C:\Users\guilherme.rfernande3\source\repos\ATIVIDADE BOSS UNICORNIO\bin\Debug\ATIVIDADE BOSS UNICORNIO.pdb
+C:\Users\guilherme.rfernande3\source\repos\ATIVIDADE BOSS UNICORNIO\obj\Debug\ATIVIDADE BOSS UNICORNIO.exe
+C:\Users\guilherme.rfernande3\source\repos\ATIVIDADE BOSS UNICORNIO\obj\Debug\ATIVIDADE BOSS UNICORNIO.pdb
