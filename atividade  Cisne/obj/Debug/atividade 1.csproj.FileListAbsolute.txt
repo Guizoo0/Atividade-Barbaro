@@ -1,0 +1,8 @@
+C:\Users\guilherme.rfernande3\source\repos\atividade 1\obj\Debug\atividade 1.csproj.AssemblyReference.cache
+C:\Users\guilherme.rfernande3\source\repos\atividade 1\obj\Debug\atividade 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.rfernande3\source\repos\atividade 1\obj\Debug\atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.rfernande3\source\repos\atividade 1\bin\Debug\atividade 1.exe.config
+C:\Users\guilherme.rfernande3\source\repos\atividade 1\bin\Debug\atividade 1.exe
+C:\Users\guilherme.rfernande3\source\repos\atividade 1\bin\Debug\atividade 1.pdb
+C:\Users\guilherme.rfernande3\source\repos\atividade 1\obj\Debug\atividade 1.exe
+C:\Users\guilherme.rfernande3\source\repos\atividade 1\obj\Debug\atividade 1.pdb
